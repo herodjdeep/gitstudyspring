@@ -11,8 +11,5 @@ public class PaymentRequest {
 	public void setPaymentId(long paymentId) {
 		this.paymentId = paymentId;
 	}
-	
-	
-	
 
 }
